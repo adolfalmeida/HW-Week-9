@@ -27,3 +27,6 @@
 
 # Delete movie:
 ![image](https://github.com/adolfalmeida/HW-Week-9/assets/143357238/d225065a-bacb-4037-b5c3-5b2680d3ef3e)
+
+# Logging
+![image](https://github.com/adolfalmeida/HW-Week-9/assets/143357238/581a73d7-1896-4730-8cc3-06c084c57cc9)
